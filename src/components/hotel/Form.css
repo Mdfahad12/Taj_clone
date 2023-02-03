@@ -1,0 +1,156 @@
+.ghi {
+  height: 280px;
+}
+
+h4 {
+  font-size: large;
+  margin: 1rem;
+}
+
+p {
+  font-size: large;
+  margin: 1rem;
+}
+
+.card {
+  padding: 1em;
+}
+
+.sh {
+  display: list-item;
+}
+
+.img-b {
+  margin: 1rem 14rem;
+}
+
+.dota {
+  text-align: center;
+}
+
+.lts {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.lts:hover {
+  background-color: #717171;
+}
+
+.ltss {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.ltss:hover {
+  background-color: #717171;
+}
+
+.ima {
+  background-color: rgb(81, 81, 180);
+  height: 100%;
+  display: flex;
+}
+
+h6 {
+  margin: 1rem 2rem;
+  color: white;
+}
+
+.im {
+  position: relative;
+  top: 0%;
+  left: 230px;
+}
+
+.e {
+  margin-top: 1rem;
+  margin: 1rem 6rem;
+}
+
+.ver {
+  border: 1px solid white;
+  margin: 0.5% 0px;
+}
+
+.amn {
+  color: white;
+  padding: 15px;
+  font-size: 25px;
+  position: absolute;
+  bottom: 8px;
+  width: 80%;
+  margin: 2rem 8rem;
+  text-align: start;
+  background-color: rgba(12, 11, 11, 0.3);
+  z-index: 1;
+}
+
+::-moz-placeholder {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  opacity: 1.5;
+}
+
+:-ms-input-placeholder {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  opacity: 1.5;
+}
+
+::placeholder {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  opacity: 1.5;
+}
+
+.wrapper {
+  display: inline-block;
+}
+
+.suggestion {
+  width: 1216px;
+  height: 320px;
+  margin: 0rem 9rem;
+  position: absolute;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgb(6, 5, 5);
+  background-color: rgb(255, 255, 255);
+}
+
+.ho {
+  margin: 1rem 5rem;
+  margin-top: 2rem;
+  color: rgb(95, 225, 134);
+}
+
+.m {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.p {
+  font-size: 15px;
+}
+
+.bn {
+  width: 110px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+  border-radius: 4px;
+}/*# sourceMappingURL=Form.css.map */

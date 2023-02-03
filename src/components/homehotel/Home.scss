@@ -1,0 +1,38 @@
+.in {
+  width: 80%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: rgb(210, 141, 56);
+  margin: 0rem 5rem;
+  display:flex;
+
+}
+#country{
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  right: 0;
+ 
+}
+.vra{
+  width: 1px;
+  border: 1px solid rgb(9, 9, 9);
+  position: relative;
+  left: 79px;
+
+  // Transform:rotate(90deg);
+}
+.rt {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid red;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}

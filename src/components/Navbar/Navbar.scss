@@ -1,0 +1,48 @@
+.modal-contents{
+    position: absolute;
+    top: 37%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #ffffff;
+    padding: 14px 28px;
+    border-radius: 3px;
+    width:330px;
+    height: 400px;
+}
+.modelin{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+.popo{
+    color:rgb(0, 0, 0);
+    font-size: 16px;
+    width: 100%;
+    text-align:start;
+   
+}
+#hotel{
+    width: 70%;
+    padding: 1px 0px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    
+    
+}
+#timein{
+     width: 90%;
+     font-size: 10px;
+}
+#timeout{
+    width: 90%;
+    font-size: 11px;
+}
+.am{
+    font-size: 13px;
+    color: black;
+}

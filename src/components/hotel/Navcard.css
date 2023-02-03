@@ -1,0 +1,10 @@
+.ig li {
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin: 3rem 0rem;
+}
+
+li:hover {
+  color: blue;
+}/*# sourceMappingURL=Navcard.css.map */
